@@ -1,0 +1,5 @@
+NAME=pfsm-nim-service2b-base
+PKGPREFIX=Pfsm
+TARGET=$(BUILDDIR)/build/ttc/$(PKGPREFIX)/NimService2B.ttc
+BUILDDIR=/dev/shm/$(NAME-LINK)
+LIBPREFIX=pfsm

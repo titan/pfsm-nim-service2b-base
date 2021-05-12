@@ -1,0 +1,5 @@
+package pfsm
+
+modules = Pfsm.NimService2B
+depends = contrib, pfsm
+
